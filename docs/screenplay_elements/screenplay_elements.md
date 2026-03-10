@@ -4,12 +4,12 @@
 
 ## Actions
 
-- [Pause](./API/Actions/Pause.md)
+- [Pause](./Actions/Pause.md)
 
 ## Questions
 
-- [DateToCheck](./API/Questions/DateToCheck.md)
-- [Entity](./API/Questions/Entity.md)
-- [Input](./API/Questions/Input.md)
+- [DateToCheck](./Questions/DateToCheck.md)
+- [Entity](./Questions/Entity.md)
+- [Input](./Questions/Input.md)
 
 [Back to overview](../../README.md)
