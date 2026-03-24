@@ -1,4 +1,4 @@
-# ![Testla Logo](https://github.com/testla-project/testla-screenplay-assets/blob/main/logos/testla-logo-32.png) Testla Screenplay Essentials
+# ![Testla Logo](docs/testla-logo-32.png) Testla Screenplay Essentials
 
 [![NPM Version](https://badge.fury.io/js/@testla%2Fscreenplay-essentials.svg)](https://badge.fury.io/js/@testla%2Fscreenplay-essentials)
 [![Downloads](https://img.shields.io/npm/dm/@testla/screenplay-essentials.svg)](https://npm-stat.com/charts.html?package=@testla/screenplay-essentials)
@@ -13,7 +13,7 @@ It enables you to create multi-actor acceptance and regression tests that captur
 
 ## Whats in Testla Screenplay Essentials?
 
-Screenplay Essentials comes with generic Actions and Questions which can be used in various contexts.
+Screenplay Essentials is a module of the Testla Screenplay suite which comes with generic Actions and Questions which can be used in various contexts.
 
 ## Installation
 
@@ -27,14 +27,14 @@ npm install --save-dev @testla/screenplay-essentials
 
 Testla offers plenty of resources to help you get started with the solution:
 
-- [Screenplay Pattern Overview](./docs/screenplay_pattern_overview/screenplay_pattern.md)
-- [Screenplay Elements](./docs/screenplay_elements/screenplay_elements.md) - API reference and usage examples for Testla
+- [Screenplay Pattern Overview](https://testla-project.github.io/testla-screenplay-documentation/docs/screenplay-pattern)
+- [Guide 🚀️](https://testla-project.github.io/testla-screenplay-documentation/docs/tutorial-basics/introduction) - comprehensive introduction to Testla Screenplay
+- [Screenplay Elements](https://testla-project.github.io/testla-screenplay-documentation/modules/testla-screenplay-essentials/introduction) - API reference and usage examples for Testla Screenplay Essentials
 - [Issues](https://github.com/testla-project/testla-screenplay-essentials-js/issues) - Feature Requests or Defects
-- [Changelog](https://github.com/testla-project/testla-screenplay-essentials-js/releases)
 
 ## 📣 Your feedback matters!
 
 Do you find Testla useful? Give it a ⭐ star on GitHub!<br>
 Found a bug? Need a feature? Raise [an issue](https://github.com/testla-project/testla-screenplay-essentials-js/issues?state=open)
 or submit a pull request.<br>
-Want to get in direct contact with us? Use our [Discord Community](https://discord.gg/MDRjCH3v).
+Want to get in direct contact with us? Use our [Discord Community](https://discord.com/channels/1194567305489813554/1194607548427411467).
