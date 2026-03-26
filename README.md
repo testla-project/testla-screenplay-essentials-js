@@ -13,7 +13,7 @@ It enables you to create multi-actor acceptance and regression tests that captur
 
 ## Whats in Testla Screenplay Essentials?
 
-Screenplay Essentials is a module of the Testla Screenplay suite which comes with generic Actions and Questions which can be used in various contexts.
+Testla Screenplay Essentials is a module of the Testla Screenplay suite which comes with generic Actions and Questions which can be used in various contexts.
 
 ## Installation
 
