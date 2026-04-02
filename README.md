@@ -19,13 +19,13 @@ It enables you to create multi-actor acceptance and regression tests that captur
 
 ## Installation
 
-Get started by installing Testla Screenplay Essentials using npm. 
+Get started by installing Testla Screenplay Essentials using npm. Ofcourse you can also install it via a different package manager of your choise.
 
 ```bash
 npm install @testla/screenplay-essentials
 ```
 
-Ofcourse you can also install it via a different package manager of your choise.
+If you are setting up a new test project you may want to consider using our installer tool [Create Testla Screenplay](https://testla-project.github.io/testla-screenplay-documentation/modules/create-testla-screenplay/introduction). It will guide you through the install routine letting you choose packages you want to install and creates a full project folder structure.
 
 ## 👨‍🏫 Learn Testla Screenplay
 
